@@ -54,6 +54,6 @@ PhD in Computer Science
 
 <h2>License</h2>
 <p>This project is open-source and available under the <a href="https://opensource.org/licenses/MIT">MIT License</a>.</p>
-
+<h3>developed by Sfiso Vinjwa</h3>
 </body>
 </html>
